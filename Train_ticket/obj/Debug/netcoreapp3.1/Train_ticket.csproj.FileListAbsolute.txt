@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.exe
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.deps.json
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.runtimeconfig.json
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.dll
+E:\Unity\NikoLua\Hello\Train_ticket\bin\Debug\netcoreapp3.1\Train_ticket.pdb
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.dll
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.pdb
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.genruntimeconfig.cache
+E:\Unity\NikoLua\Hello\Train_ticket\obj\Debug\netcoreapp3.1\Train_ticket.csproj.AssemblyReference.cache
